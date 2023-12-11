@@ -6,7 +6,9 @@ public class sample {
 	{
 		
 		
-			System.out.println("welcome");		
+			System.out.println("welcome");
+			System.out.println("Welcome to java");
+			System.out.println("welcome to automation");
 			
 		
 
